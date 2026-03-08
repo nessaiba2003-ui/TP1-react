@@ -17,7 +17,6 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -26,8 +25,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -59,9 +56,19 @@ Versionnement Git/GitHub
 <img width="828" height="584" alt="Screenshot 2026-03-08 111550" src="https://github.com/user-attachments/assets/793e6876-9806-46c0-b4e2-481ef4af0549" />
 <img width="825" height="445" alt="Screenshot 2026-03-08 111918" src="https://github.com/user-attachments/assets/6345f574-7d9a-4bf4-9b33-1e1723ce1870" />
 <img width="1210" height="624" alt="Screenshot 2026-03-08 111929" src="https://github.com/user-attachments/assets/e7a70d49-6096-4ce0-94c5-570a17396f9a" />
-<img width="709" height="611" alt="Screenshot 2026-03-08 112715" src="https://github.com/user-attachments/assets/30710604-a02b-4c95-919a-8382d4b6dc98" />
+
+### ADD picture EMMA actrice 
+<img width="709" height="611" alt="Screenshot 2026-03-08 112715" src="https://github.com/user-attachments/assets/30710604-a02b-4c95-919a-8382d4b6dc98" /> 
+
+### Affichage
 <img width="821" height="515" alt="Screenshot 2026-03-08 114511" src="https://github.com/user-attachments/assets/fb6e5707-3909-4d62-8ce7-774920186963" />
+
+### EXERCICE1:Voitures
 <img width="845" height="506" alt="Screenshot 2026-03-08 115443" src="https://github.com/user-attachments/assets/5f20b99e-03f0-4242-934a-6bc06be786c3" />
+
+### EXERCICE 2 : ListeCourses
 <img width="777" height="955" alt="Screenshot 2026-03-08 115941" src="https://github.com/user-attachments/assets/41889786-edb1-4979-a1ef-77734ecbbdb8" />
+
+### STRUCTURE DU PROJET
 <img width="249" height="456" alt="Screenshot 2026-03-08 120008" src="https://github.com/user-attachments/assets/73f5ca3a-2903-43a4-b4c8-a40b83d97eb2" />
 
